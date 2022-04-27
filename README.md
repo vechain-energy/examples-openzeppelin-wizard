@@ -1,7 +1,7 @@
 # OpenZeppelin + Hardhat + VeChain
-## Get started with the Contracts Wizard
+## Getting started with the Contracts Wizard
 
-OpenZeppelin is a wonderful platform with battle tested and audited contract libraries. A OpenZeppelin has a contract wizard that allows to build basic contracts.
+OpenZeppelin is a wonderful platform with battle tested and audited contract libraries. OpenZeppelin offers a contract wizard that allows to build basic contracts.
 
 Have a look at [wizard.openzeppelin.com](https://wizard.openzeppelin.com) and let us build an example project from scratch.
 
