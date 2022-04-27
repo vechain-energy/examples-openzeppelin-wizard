@@ -112,7 +112,7 @@ minted 2.0 of MyToken to myself at 0x7eF0CbaDFc0da51A6153F35a99185B59a8cbc463
 
 ## Links
 
-* [Above Example Project](https://gitlab.com/vechain.energy/examples/openzepplin-wizard)
+* [Above Example Project](https://gitlab.com/vechain.energy/examples/openzeppelin-wizard/)
 * [OpenZeppelin Wizard](https://wizard.openzeppelin.com/)
 * [OpenZeppelin.com](https://openzeppelin.com/)
 * [Hardhat](https://hardhat.org/getting-started/)
